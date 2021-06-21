@@ -28,10 +28,10 @@ Discord     :   critiKaL#5603
  
 <a href="https://itskaustubh.github.io" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/kaustubhbhagwat" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-
 <br/>
 <br/>
 <br/>
+```Scroll down to check out my pinned projects```
 
 <!-- [![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=itskaustubh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) -->
  <!-- [![Kaustubh's github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itskaustubh&hide=jupyter%20notebook&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) -->
