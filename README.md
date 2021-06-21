@@ -3,7 +3,7 @@
 > who
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/832596849402839070/856443189963653170/zenitsu_comfy.png" 
+<img align="left" src="https://raw.githubusercontent.com/itskaustubh/itskaustubh/main/assets/zenitsu_comfy.png" 
      alt="Comfy Zenitsu (Chibi Rendition) from my Discord Server" width="320" /> 
 
 ```csharp
@@ -22,7 +22,7 @@ Hobbies     :   Drawing, Skateboarding, Gaming
 Discord     :   critiKaL#5603
 ```
 <p align="left">
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#f99e2f" src="https://via.placeholder.com/15/f99e2f/000000?text=+" width="25" height="20" /><img alt="#ffcb6b" src="https://via.placeholder.com/15/ffcb6b/000000?text=+" width="25" height="20" /><img alt="#ffdbca" src="https://via.placeholder.com/15/ffdbca/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" />
 </p>
 
  
