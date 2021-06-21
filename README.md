@@ -21,7 +21,7 @@ Here are some ideas to get you started:
      alt="Comfy Zenitsu (Chibi Rendition) from my Discord Server" width="320" /> 
 
 ```csharp
-itskaustubh.github.io
+/itskaustubh
 -------------------------
 Name        :   Kaustubh
 Portfolio   :   itskaustubh.github.io
