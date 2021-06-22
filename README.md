@@ -1,4 +1,4 @@
-```Scroll down to check out my pinned projects :)```
+#### ```Scroll down to check out my pinned projects :)```
 ```zsh
 > who
 ```
