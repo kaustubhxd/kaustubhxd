@@ -1,6 +1,6 @@
 #### ```Scroll down to check out my pinned projects :)```
 ```zsh
-> who
+> who .
 ```
 
 <img align="left" src="https://raw.githubusercontent.com/itskaustubh/itskaustubh/main/assets/zenitsu_comfy.png" 
