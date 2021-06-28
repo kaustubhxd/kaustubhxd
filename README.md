@@ -27,8 +27,8 @@ Discord     :   critiKaL#5603
 
  
  
-<a href="https://itskaustubh.github.io" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/kaustubhbhagwat" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="https://itskaustubh.github.io" target="_blank"><img align="left" alt="https://itskaustubh.github.io" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://linkedin.com/in/kaustubhbhagwat" target="_blank"><img align="left" alt="Kaustubh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <br/>
 <br/>
 <br/>
