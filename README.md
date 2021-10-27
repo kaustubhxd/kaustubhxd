@@ -17,7 +17,7 @@ Frameworks  :   React, Vue, Svelte, Express, Flutter
 Languages   :   JavaScript, C++, Python, Java
 Learning    :   Three.js
 Certs       :   Azure AZ-900
-Hobbies     :   Drawing, Skateboarding, Gaming
+Hobbies     :   Drawing, Skateboarding, Video Games
 Discord     :   critiKaL#5603
 ```
 <p align="left">
