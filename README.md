@@ -14,8 +14,7 @@ Portfolio   :   itskaustubh.github.io
 Pronouns    :   He/Him
 Location    :   Pune, India
 Frameworks  :   React, Vue, Svelte, Express, Flutter
-Languages   :   JavaScript, C++, Python, 
-                Java, HTML/SCSS
+Languages   :   JavaScript, C++, Python, Java
 Learning    :   Three.js
 Certs       :   Azure AZ-900
 Hobbies     :   Drawing, Skateboarding, Gaming
