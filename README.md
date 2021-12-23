@@ -3,7 +3,7 @@
 > who .
 ```
 
-<img align="left" src="https://64.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif" 
+<img align="left" src="https://s7.ezgif.com/save/ezgif-7-5ca243b4de.gif" 
      alt="Comfy Zenitsu (Chibi Rendition) from my Discord Server" width="320" /> 
 
 ```csharp
