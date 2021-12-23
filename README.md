@@ -3,7 +3,7 @@
 > who .
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/832596849402839070/923446113946726420/coding-left.gif" 
+<img align="left" src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif" 
      alt="Comfy Zenitsu (Chibi Rendition) from my Discord Server" width="320" /> 
 
 ```csharp
