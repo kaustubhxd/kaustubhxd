@@ -21,7 +21,7 @@ Hobbies     :   Drawing, Skateboarding, Video Games
 Discord     :   critiKaL#5603
 ```
 <p align="left">
-  <img alt="#4c2f1f" src="https://via.placeholder.com/15/4c2f1f/000000?text=+" width="25" height="20" /><img alt="#f99e2f" src="https://via.placeholder.com/15/f99e2f/000000?text=+" width="25" height="20" /><img alt="#ffcb6b" src="https://via.placeholder.com/15/ffcb6b/000000?text=+" width="25" height="20" /><img alt="#ffdbca" src="https://via.placeholder.com/15/ffdbca/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" />
+  <img alt="#4c2f1f" src="https://via.placeholder.com/15/4c2f1f/000000" width="25" height="20" /><img alt="#f99e2f" src="https://via.placeholder.com/15/f99e2f/000000?text=+" width="25" height="20" /><img alt="#ffcb6b" src="https://via.placeholder.com/15/ffcb6b/000000?text=+" width="25" height="20" /><img alt="#ffdbca" src="https://via.placeholder.com/15/ffdbca/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" />
 </p>
 
  
