@@ -3,7 +3,7 @@
 > who .
 ```
 
-<img align="left" src="https://c.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif" 
+<img align="left" src="https://c.tenor.com/zWLzYDsUprAAAAAC/anime-boy.gif" 
      alt="Comfy Zenitsu (Chibi Rendition) from my Discord Server" width="320" /> 
 
 ```csharp
