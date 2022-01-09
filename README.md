@@ -3,8 +3,8 @@
 > who .
 ```
 
-<img align="left" src="https://media.wired.com/photos/593320cb68cb3b3dc4097ed6/master/w_1600,c_limit/1_partyanimsm2.gif" 
-     alt="Comfy Zenitsu (Chibi Rendition) from my Discord Server" width="320" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/832596849402839070/929648349823512576/desk_animated.gif" 
+     alt="A Simple Desk" width="320" /> 
 
 ```csharp
 /itskaustubh
