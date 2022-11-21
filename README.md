@@ -10,7 +10,7 @@
 /itskaustubh
 -------------------------
 Name        :   Kaustubh
-Portfolio   :   itskaustubh.github.io
+Portfolio   :   kaustubhxd.github.io
 Pronouns    :   He/Him
 Location    :   Pune, India
 Frameworks  :   React, Vue, Svelte, Express, Flutter
@@ -26,16 +26,16 @@ Discord     :   critiKaL#5603
 
  
  
-<a href="https://itskaustubh.github.io" target="_blank"><img align="left" alt="https://itskaustubh.github.io" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/kaustubhbhagwat" target="_blank"><img align="left" alt="Kaustubh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="https://kaustubhxd.github.io" target="_blank"><img align="left" alt="https://kaustubhxd.github.io" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://linkedin.com/in/kaustubh-bhagwat" target="_blank"><img align="left" alt="Kaustubh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <br/>
 <br/>
 <br/>
 
-<!-- [![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=itskaustubh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) -->
- <!-- [![Kaustubh's github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itskaustubh&hide=jupyter%20notebook&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhxd&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) -->
+ <!-- [![Kaustubh's github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaustubhxd&hide=jupyter%20notebook&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) -->
  
 <span>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=itskaustubh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
-<img height="150em" float="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itskaustubh&hide=jupyter%20notebook&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaustubhxd&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
+<img height="150em" float="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaustubhxd&hide=jupyter%20notebook&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
 </span>
