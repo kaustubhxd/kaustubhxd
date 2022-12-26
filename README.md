@@ -7,7 +7,7 @@
      alt="A Simple Desk" width="320" /> 
 
 ```csharp
-/itskaustubh
+/kaustubhxd
 -------------------------
 Name        :   Kaustubh
 Portfolio   :   kaustubhxd.github.io
