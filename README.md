@@ -11,6 +11,7 @@
 -------------------------
 Name        :   Kaustubh
 Portfolio   :   kaustubh.app
+Founder     :   Creative Reset Society ( https://creativeresetsociety.com )
 Location    :   Pune, India
 Frameworks  :   React, Vue, Svelte, Express, Flutter
 Languages   :   JavaScript, C++, Python, Java
