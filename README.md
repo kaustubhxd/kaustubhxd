@@ -10,7 +10,7 @@
 /kaustubhxd
 -------------------------
 Name        :   Kaustubh
-Portfolio   :   https://kaustubh.app
+Portfolio   :   kaustubh.app
 Location    :   Pune, India
 Frameworks  :   React, Vue, Svelte, Express, Flutter
 Languages   :   JavaScript, C++, Python, Java
