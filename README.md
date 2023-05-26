@@ -7,13 +7,14 @@
      alt="A Simple Desk" width="320" /> 
 
 ```csharp
-/kaustubhxd
+/ kaustubhxd
 -------------------------
 Name        :   Kaustubh
 Portfolio   :   kaustubh.app
 Location    :   Pune, India
 Frameworks  :   React, Vue, Svelte, Express, Flutter
-Languages   :   JavaScript, C++, Python, Java
+Databases   :   MySQL, PostgreSQL, MongoDB        
+Languages   :   TypeScript, JavaScript, C++, Python, Java
 Learning    :   Three.js
 Certs       :   Azure AZ-900
 Hobbies     :   Drawing, Skateboarding, Video Games
