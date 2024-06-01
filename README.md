@@ -3,7 +3,7 @@
 > who .
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/832596849402839070/929648349823512576/desk_animated.gif" 
+<img align="left" src="https://raw.githubusercontent.com/kaustubhxd/kaustubhxd/main/assets/desk_animated.gif" 
      alt="A Simple Desk" width="320" /> 
 
 ```csharp
