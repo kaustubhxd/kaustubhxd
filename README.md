@@ -18,7 +18,7 @@ Languages   :   TypeScript, JavaScript, C++, Python, Java
 Learning    :   Three.js
 Certs       :   Azure AZ-900
 Hobbies     :   Drawing, Skateboarding, Video Games
-Discord     :   critiKaL#5603
+Discord     :   kaustubhxd
 ```
 <p align="left">
      &nbsp;&nbsp;  
