@@ -15,7 +15,7 @@ Location    :   Pune, India
 Frameworks  :   React, Vue, Svelte, Express, Flutter
 Databases   :   MySQL, PostgreSQL, MongoDB        
 Languages   :   TypeScript, JavaScript, C++, Python, Java
-Learning    :   Three.js
+Learning    :   Advanced ReactFlow, Three.js
 Certs       :   Azure AZ-900
 Hobbies     :   Drawing, Skateboarding, Video Games
 Discord     :   kaustubhxd
