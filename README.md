@@ -30,7 +30,6 @@ Discord     :   kaustubhxd
 
 [![wakatime](https://wakatime.com/badge/user/a3b0c593-b613-4b49-994e-12691f5839fd.svg)](https://wakatime.com/@a3b0c593-b613-4b49-994e-12691f5839fd)
 
-
 <br/>
 <br/>
 <br/>
